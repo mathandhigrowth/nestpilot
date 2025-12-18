@@ -1,6 +1,6 @@
 {
-    "name": "nestpilot",
-    "short_name": "nestpilot",
+    "name": "pg_manager",
+    "short_name": "pg_manager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
